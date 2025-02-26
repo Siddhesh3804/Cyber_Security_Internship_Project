@@ -9,7 +9,7 @@ Installation : opencv and tkinter libraries
 
 Steps :
 	1. Download the project folder from GitHub repository.
-	2. Open README file for better understanding of how to exceute the project and what are the prequsites.
+ 	2. Open README file for better understanding of how to exceute the project and what are the prequsites.
 	3. Open 'Encryption' file using python IDLE.
 	4. Click on 'Run'.
 	5. Type your 'Confidential Message' along with password.
